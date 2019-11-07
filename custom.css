@@ -1,0 +1,122 @@
+*{
+   margin:0;
+   padding: 0;
+}
+header{
+    background: #354f66;
+    display: block;
+    height: 60px;
+}
+header ul{
+    padding: 0px;
+    margin: 0px;
+    width: 861px;
+    display: i;
+    margin: 0;
+    display: inline-block;
+    margin-left: 600px;
+    padding-top: 22px;
+}
+header ul li{
+    /* text-decoration: none; */
+    display: inline-block;
+    margin-left: 50px;
+}
+header ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+.section{
+    margin-top: 200px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.main_section{
+	background-image: url("background.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	min-height: 100vh;
+}
+.left{
+    float: left;
+    margin-right: 50px;
+}
+.left h1{
+    /* padding-bottom: 26px; */
+    color: #fff;
+}
+.left p{
+    color: #fff;
+}
+.left ul{
+    padding: 0;
+    margin: 0;
+}
+.left ul li{
+    color: #fff;
+    list-style-type: circle;
+    margin-left: 15px;
+}
+.learn{paddin-top: 78px;display: block;paddin-top: 232px;padding-top: 34px;}
+.learn a{
+    color: #fff;
+    text-decoration: none;
+    background: #6DBD6D;
+    padding: 10px;
+    font-weight: 600;
+    border-radius: 18px;
+    /* border: solid #354f66; */
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.right{
+    /* display: block; */
+    float: right;
+    margin-left: 50px;
+    width: 500px;
+}
+.signup_box{
+    background: #6DBD6D;
+    height: 400px;
+    width: 100%;
+    border: 2px solid #ffffff2b;
+    border-radius: 4px;
+}
+.signup_box h1{
+
+color: #fff;
+
+text-align: center;
+
+padding-top: 15px;
+}
+.signup_box p{
+    color: #fff;
+    text-align: center;
+    /* width: 80%; */
+}
+.signup_form{
+    width: 80%;
+    margin: 10%;
+}
+.signup_form form{}
+.signup_form form input{
+    width: 100%;
+    margin-top: 5px;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 4px;
+    border: 2px solid #c3bbbb3b;
+    box-shadow: beige;
+}
+.submit{
+	background: #375f37;
+	box-shadow: aliceblue;
+	box-shadow: 4px 4px 0 0 #696e72;
+	color: #fff;
+	font-weight: bold;
+	padding: 0px;
+}
+span{
+	color:#6DBD6D;
+}
